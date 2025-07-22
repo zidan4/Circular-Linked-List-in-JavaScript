@@ -2,5 +2,5 @@
 
 ✅ Circular Linked List Implementation.
 ✅ Append & Delete Nodes
-✅ Display List. 
+✅ Display List.
 ✅ Cycle Detection (always true for circular lists)
